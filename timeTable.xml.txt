@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE timeTable SYSTEM "timeTable.dtd">
+<timeTable>
+  <complexes>
+    <complex code="C1">
+      <name>Спортивный комплекс "Олимп"</name>
+      <address>ул. Спортивная, д. 10</address>
+    </complex>
+    <complex code="C2">
+      <name>Фитнес-центр "Энергия"</name>
+      <address>пр. Мира, д. 25</address>
+    </complex>
+  </complexes>
+  <lessons>
+    <lesson no="1" complex="C1">
+      <date>2023-10-05</date>
+      <time>18:00</time>
+    </lesson>
+    <lesson no="2" complex="C2">
+      <date>2023-10-06</date>
+      <time>19:30</time>
+    </lesson>
+    <lesson no="3" complex="C1">
+      <date>2023-10-07</date>
+      <time>16:00</time>
+    </lesson>
+  </lessons>
+</timeTable>
